@@ -1,0 +1,6 @@
+reset flowers
+reset time
+add game states
+  start
+  play
+  end
